@@ -1,2 +1,1 @@
-# .github
-AALT - Android Accessibility Learning and Testing Framework
+# AALT - Android Accessibility Learning and Testing Framework
